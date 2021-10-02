@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Stephen.
+- 👋 Hi, I’m Son Tung.
 - 👀 I’m interested in blockchain technology.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on GameFi and DeFi.
 
 <!---
